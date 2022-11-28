@@ -4,6 +4,7 @@
 *内容：链表的顺序实现
 */
 #include <stdio.h>
+#include <stdlib.h>  
 //c语言中最基本的顺序存储结构就是数组
 //1.定义状态码
 #define OK 1
